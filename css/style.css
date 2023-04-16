@@ -366,7 +366,7 @@
 .one{
     margin-left: 400px;
     margin-top: -400px;
-    text-transform: capitalize;
+     
 }
 .mainwin{
     width: 300px;
@@ -381,12 +381,12 @@
 .two{
     margin-left: 800px;
     margin-top: -350px;
-    text-transform: capitalize;
+     
 }
 .three{
     margin-left: 360px;
     margin-top: -300px;
-    text-transform: capitalize;
+     
 }
 .userprof{
     margin-top: 100px;
@@ -399,16 +399,21 @@
 .four{
     margin-left: 800px;
     margin-top: -250px;
-    text-transform: capitalize;
+     
+}
+.DesktopApp{
+    width: 340px;
+    height: 500px;
 }
 .AndroidApp{
     width: 300px;
-    height: 550px;
+    height: 600px;
 }
 .MainAnd{
     margin-left: 400px;
     margin-top: -450px;
-    text-transform: capitalize;
+    padding-bottom: 400px;
+     
 }
 .deviceManager{
     margin-left: 350px;
@@ -419,7 +424,7 @@
 .five{
     margin-left: 800px;
     margin-top: -350px;
-    text-transform: capitalize; 
+      
 }
 
 
@@ -517,7 +522,7 @@
     color: #FFFFFF;
     font-size: 15px;
     font-weight: normal;
-    text-transform: capitalize;
+     
     transition: .3s;
 }
 
