@@ -243,6 +243,15 @@
     background-size: cover;
     
 }
+.license {
+    position: relative;
+    min-height: 800px;
+    min-width: 400;
+    background: linear-gradient(rgba(15, 23, 43, .1), rgba(15, 23, 43, .1)), url(../img/license.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
 
 /* .video .btn-play {
     position: absolute;
