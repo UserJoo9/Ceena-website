@@ -410,6 +410,12 @@
     margin-top: -250px;
      
 }
+.DesktopAppLicense{
+    width: 1280px;
+    height: 720px;
+    aspect-ratio: 16/9;
+    object-fit: contain;
+}
 .DesktopApp{
     max-width: 1280px;
     width: 340px;
